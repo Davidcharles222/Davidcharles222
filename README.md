@@ -1,86 +1,64 @@
-# 👋 Olá! Eu sou David Charles
+<h1 align="center">👋 Olá! Eu sou David Charles</h1>
 
-💻 Desenvolvedor Front-End em formação  
-🚀 Criando aplicações web modernas com HTML, CSS, JavaScript, React e TypeScript  
-📚 Estudante de Análise e Desenvolvimento de Sistemas  
-🎯 Focado em interfaces responsivas, experiências interativas e evolução contínua  
-
----
-
-## 🚀 Tecnologias e ferramentas
-
-<div style="display: inline_block"><br>
-
-<img align="center" alt="JavaScript" height="35" width="45"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-<img align="center" alt="React" height="35" width="45"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
-<img align="center" alt="TypeScript" height="35" width="45"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-
-<img align="center" alt="HTML" height="35" width="45"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-<img align="center" alt="CSS" height="35" width="45"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-<img align="center" alt="Git" height="35" width="45"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-
-<img align="center" alt="GitHub" height="35" width="45"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-
-</div>
+<p align="center">
+💻 Desenvolvedor Front-End em formação <br>
+🚀 Criando aplicações web com HTML, CSS, JavaScript, React e TypeScript <br>
+🎯 Focado em interfaces responsivas, interativas e experiências modernas
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Tecnologias
 
-<div>
-  <a href="https://github.com/Davidcharles222">
-
-  <img height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=Davidcharles222&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  <img height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidcharles222&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
+<p align="center">
+  <img alt="JavaScript" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="TypeScript" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img alt="React" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="HTML" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Git" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img alt="GitHub" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</p>
 
 ---
 
 ## 🌐 Projetos em destaque
 
-🔹 Movimenta+  
-Aplicação web de exercícios ao ar livre com acompanhamento de evolução física.
+### 💜 Movimenta+
+Aplicação web de exercícios ao ar livre com acompanhamento de evolução física.  
+🔗 https://movimenta-plus.vercel.app/login.html
 
-🔹 E-commerce Shopsy  
+### 🛒 E-commerce Shopsy
 E-commerce moderno, responsivo e interativo.
 
-🔹 Reactgram  
+### 📱 Reactgram
 Aplicação inspirada em rede social com interação entre usuários.
 
-🔹 CarrinhoCompras  
+### 🛍 CarrinhoCompras
 Sistema dinâmico de carrinho de compras com gerenciamento de produtos.
+
+---
+
+## 🐍 Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Davidcharles222/Davidcharles222/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
 
 ---
 
 ## 📫 Contato
 
-<div>
+<p align="center">
+  <a href="https://wa.me/5532999995953" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
 
-<a href="https://wa.me/5532999995953" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
+  <a href="mailto:dvdcharles222@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 
-<a href="mailto:dvdcharles222@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/david-charles-64b985239/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</div>
+  <a href="https://www.linkedin.com/in/david-charles-64b985239/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
